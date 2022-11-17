@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Screen /> renders the correct html output 1`] = `"<div class=\\"screen\\"><div style=\\"display:inline-block;white-space:nowrap\\">0</div></div>"`;
