@@ -8,6 +8,7 @@ Ecalculator is a basic pocket calculator which allows most basic pocket calculat
 -Make sure yarn or npm is installed
 -Clone the project to you local mahcine
 
+
 ## Running the project and tests:
 -To install all packages run:
 ```sh
