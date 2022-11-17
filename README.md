@@ -3,26 +3,26 @@ Ecalculator is a basic pocket calculator which allows most basic pocket calculat
 
 ### `Requirements:`
 
--Install Node
--Have an IDE installed
--Make sure yarn or npm is installed
--Clone the project to you local mahcine
+- Install Node
+- Have an IDE installed
+- Make sure yarn or npm is installed
+- Clone the project to you local mahcine
 
 
 ## Running the project and tests:
--To install all packages run:
+- To install all packages run:
 ```sh
 yarn install
 ```
--To start the project run:
+- To start the project run:
 ```sh
 yarn start
 ```
--To run tests run:
+- To run tests run:
 ```sh
 yarn test
 ```
--To get code coverage run:
+- To get code coverage run:
 ```sh
 yarn test --coverage
 ``` 
